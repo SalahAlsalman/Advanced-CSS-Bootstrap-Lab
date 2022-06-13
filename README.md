@@ -28,7 +28,7 @@ Create online store withe following requirements:
     - All tables must have customised formatting (colours, layout, etc).
     - Center all content, with the exception of multiple row items being equally padded around the centre.
     - All lists must be customised.
-    - Apply a colour ﬁlter to at least 2 images.
+    - Apply a color ﬁlter to at least 2 images.
 
 ## Bonus
 - Clicking on an item should allow the user to see more details about the item, such as a brief description,.specifications and price
